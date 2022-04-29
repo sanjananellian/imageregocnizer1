@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(202, 225, 241);
+    color:rgb(225, 0, 255);
+}
+.heading{
+font-size:50px;
+
+}
+.object{
+color:rgb(73, 91, 234);
+}
+#camera{
+width:400px;
+height:360px;
+border:10px solid rgb(235, 244, 186);
+}
+#object2{
+color:rgb(165, 42, 42)
+}
+#accuracy{
+   color:rgb(46, 105, 23) 
+}
